@@ -36,7 +36,7 @@ Here are some of the projects I'm proud of. You can find more on my GitHub profi
 | **Vision Forge** | An AI image generator that converts text prompts into images using Stable Diffusion. | [vaibhav-123-4/vision-forge](https://github.com/vaibhav-123-4/vision-forge) |
 | **Echo** | A full-stack social networking app with user auth, posts, and comments, built with React, Supabase, and Express. | In Progress |
 | **Auth App** | A simple authentication project for learning the ins and outs of Next.js. | [vaibhav-123-4/Auth-App](https://github.com/vaibhav-123-4/Auth-App) |
-| **Expense Tracker** | A tool to help manage and track personal expenses. | [expense-tracker-ruddy-alpha.vercel.app](https://expense-tracker-ruddy-alpha.vercel.app/) |
+| **Expense Tracker** | A tool to help manage and track personal expenses. | [expense-tracker-ruddy-alpha.vercel.app](https://vaibhav-expense-tracker.vercel.app/) |
 
 ---
 
