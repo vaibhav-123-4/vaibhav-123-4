@@ -52,6 +52,6 @@ You can find me on the following platforms. Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav1234/)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/VaibhavSha6869)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://github.com/vaibhav-123-4/Portfolio-Website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vaibhav-portfolio-sage.vercel.app)
 
 ---
